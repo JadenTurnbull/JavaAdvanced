@@ -26,6 +26,6 @@ public class A05PrimFunction {
     // What's wrong here?
     Function<SalesTxn, Double> taxFunction = 
         t -> t.getTransactionTotal() * t.getTaxRate();
-    double tax = taxFunction.apply(first); // What happerns here?    
+    double tax = taxFunction.apply(first); // What happens here?
   }
 }
