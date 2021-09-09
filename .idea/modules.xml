@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classwork/ElectronicDevice/ElectronicDevice.iml" filepath="$PROJECT_DIR$/Classwork/ElectronicDevice/ElectronicDevice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaAdvanced.iml" filepath="$PROJECT_DIR$/.idea/JavaAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classwork/LambdaOperations/LambdaOperations.iml" filepath="$PROJECT_DIR$/Classwork/LambdaOperations/LambdaOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classwork/RoboCallExample/RoboCallExample.iml" filepath="$PROJECT_DIR$/Classwork/RoboCallExample/RoboCallExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classwork/SalesTxn/SalesTxn.iml" filepath="$PROJECT_DIR$/Classwork/SalesTxn/SalesTxn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classwork/SalesTxn9/SalesTxn9.iml" filepath="$PROJECT_DIR$/Classwork/SalesTxn9/SalesTxn9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classwork/Students/Students.iml" filepath="$PROJECT_DIR$/Classwork/Students/Students.iml" />
+    </modules>
+  </component>
+</project>
