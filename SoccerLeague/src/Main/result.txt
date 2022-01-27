@@ -1,0 +1,15 @@
+Real_Madrid 3,Chelsea 1
+Real_Madrid 5,Arsenal 1
+Manchester_United 0,Real_Madrid 2
+Real_Madrid 4,Juventus 1
+Real_Madrid 3,Barcelona 3
+Barcelona 3,Arsenal 0
+Barcelona 2,Chelsea 1
+Chelsea 4,Arsenal 4
+Manchester_United 0,Barcelona 1
+Barcelona 2,Juventus 2
+Juventus 2,Arsenal 1
+Juventus 1,Chelsea 0
+Juventus 0,Manchester_United 0
+Manchester_United 1,Arsenal 0
+Manchester_United 2,Chelsea 2
